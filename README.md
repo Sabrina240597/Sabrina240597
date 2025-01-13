@@ -1,5 +1,8 @@
 <h1 align="center">Hi 👋, I'm sabrina!</h1>
-<h3 align="center">En búsqueda de mi primera experiencia en el mundo IT dentro de un equipo profesional que me permitan crecer tanto como persona y además técnicamente. Actualmente estoy formando mi perfil técnico como data analyst y desarrolladora de bases de datos.</h3>
+<h3 align="center">✨ Apasionada por el análisis y la visualización de datos ✨ 
+Estoy en búsqueda de mi primer empleo como Data Analyst o en roles relacionados. Me he especializado en herramientas de visualización de datos como Tableau y Power BI, así como en Google G Suite y bases de datos SQL, trabajando con MySQL y DBeaver. 📊📈🗂
+Destaco por mis habilidades en análisis de datos, resolución de problemas y mi actitud proactiva para enfrentar nuevos desafíos. Siempre estoy dispuesta a aprender y aplicar mis conocimientos en proyectos innovadores y emocionantes. 💡🚀
+.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sabrina240597&label=Profile%20views&color=0e75b6&style=flat" alt="sabrina240597" /> </p>
 
